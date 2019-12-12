@@ -12,7 +12,7 @@ GEM
       ffi (>= 1.3.0)
       mime-types (~> 1.18)
     fast-stemmer (1.0.2)
-    ffi (1.9.3)
+    ffi (1.11.3)
     github-pages (10)
       kramdown (= 1.2.0)
     highline (1.6.20)
